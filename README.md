@@ -13,8 +13,9 @@ Follow these steps to install and set up the project.
 bash
 Copy code
 # Clone the repository
-git clone https://amorserv.com/ 
-https://amorserv.com/
+Visit AmorServ for IT Support and Custom Software Development https://amorserv.com/ 
+
+
 cd field-management-software
 # Install dependencies
 npm install

@@ -13,7 +13,7 @@ Follow these steps to install and set up the project.
 bash
 Copy code
 # Clone the repository
-git clone https://github.com/yourusername/field-management-software.git
+git clone [https://github.com/yourusername/field-management-software.git](https://amorserv.com/)
 cd field-management-software
 # Install dependencies
 npm install

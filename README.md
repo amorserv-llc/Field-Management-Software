@@ -14,6 +14,7 @@ bash
 Copy code
 # Clone the repository
 git clone https://amorserv.com/ 
+https://amorserv.com/
 cd field-management-software
 # Install dependencies
 npm install
